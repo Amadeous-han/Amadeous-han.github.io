@@ -2,7 +2,7 @@ name: "Yuhan's blog"
 description: "Yohanna的个人简介"
 
 avatar: https://raw.githubusercontent.com/Amadeous-han/blogimage/main/undefined%E5%A4%B4%E5%83%8F.jpg
-favicon: https://pianfan.github.io/images/favicon.ico
+favicon: https://raw.githubusercontent.com/Amadeous-han/blogimage/main/undefined%E5%A4%B4%E5%83%8F.jpg
 
 navigation:
   - name: 首页
